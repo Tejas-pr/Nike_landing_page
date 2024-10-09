@@ -1,5 +1,6 @@
-# Demo
+#Learn:
+- i'm using tailwind to create a Nike landing page
+- learning how to use git/gitHub using gitBash and vs-code terminal to push code the repo
 
-using git and github to init the repo 
-
-stage 1
+#used Tech
+- ReactJs, Talwind
